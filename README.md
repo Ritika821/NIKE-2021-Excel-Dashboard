@@ -14,11 +14,11 @@ This is a sales report analysis of NIKE a Footwear Company. Nike is an American 
 
 ## This Project Includes :
 
-- **Identifing the Problem :** Firstly understood the data and its different variables through my analytical skills.
-- **Data Cleaning and Processing :** Converted the data into Table with Filters, removed all dublicate values, changed data type, used text to column technique to seperate the columns etc.
+- **Identifying the Problem :** Firstly understood the data and its different variables through my analytical skills.
+- **Data Cleaning and Processing :** Converted the data into Table with Filters, removed all duplicate values, changed data type, used text to column technique to separate the columns etc.
 - **Performing Descriptive Analysis :** Inserted different meaningful Pivot table from the processed data and generated KPI from that Pivot.
-- **Data Visualization :** Constructed various significant insights in order to derive relevant informations from Pivot Chart.
-- **Enhanced Formating :** Altered the format of the Charts with the help of Format Painter.
+- **Data Visualization :** Constructed various significant insights in order to derive relevant information from Pivot Chart.
+- **Enhanced Formatting :** Altered the format of the Charts with the help of Format Painter.
 - **Creation of Dashboard :** Created a meaningful dashboards by compiling all the relevant charts together and also inserted additional features like Slicers, Timeline, Buttons from Developers etc.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -54,7 +54,7 @@ In this project, the generated KPI is Total Sales of NIKE Company i.e. 864M, Tot
 
 This Dashboard consists of 2 pages operated by Buttons under Other Analysis box, these are Comparison Dashboard and Operating Margin Dashboard.
 
-1. In this project, I have used Month Timeline Slicer, from which I derived that December month has maximum Sale of Nike product but Profit was bit lesser than maximum and in July there is maximum profit whereas in March there was the least Sale but not the least Profit, here Feburary is the least profit month.
+1. In this project, I have used Month Timeline Slicer, from which I derived that December month has maximum Sale of Nike product but Profit was bit lesser than maximum and in July there is maximum profit whereas in March there was the least Sale but not the least Profit, here February is the least profit month.
 
 2. In this Line Chart, Men's Street Footwear has the highest Sale with the maximum Profit followed by Women's Apparel and Men's Athletic Footwear whereas Women's Athletic Footwear has lowest Sale with the least Profit followed by Men's Apparel and Women's Street Footwear. This means that for footwear company should focus on male members and for clothing company should focus on female members.
 
@@ -109,7 +109,7 @@ This Dashboard consists of 2 pages operated by Buttons under Other Analysis box,
 
 ## Conclusion :
 
-This Dashboard is helpful for the Nike Company and other footwear stores to in their Sales related decision. Through this we can compare between the retailers and findout the best retailer i.e. Sport Locker, also we can find the best product i.e. mostly sold is Men's Street Footwear. From this we can also analyze the additional information that which gender purchases the NIKE Footwear most then we came to know that Male gender is popular for NIKE Sale and when we talk about NIKE Clothings then Female gender is highly popular for that. We can also check for the best zone for the sale of product to acquire maximum profit margin is South Zone and the State that has maximum profit margin is itself exist in South Zone. So Company should focus in South Zone for maximum Sales in order to operate maximum profit. According to these analysis Company can plan their future maximizing profit strategy.
+This Dashboard is helpful for the Nike Company and other footwear stores to in their Sales related decision. Through this we can compare between the retailers and find out the best retailer i.e. Sport Locker, also we can find the best product i.e. mostly sold is Men's Street Footwear. From this we can also analyze the additional information that which gender purchases the NIKE Footwear most then we came to know that Male gender is popular for NIKE Sale and when we talk about NIKE Clothing then Female gender is highly popular for that. We can also check for the best zone for the sale of product to acquire maximum profit margin is South Zone and the State that has maximum profit margin is itself exist in South Zone. So Company should focus in South Zone for maximum Sales in order to operate maximum profit. According to these analysis Company can plan their future maximizing profit strategy.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
